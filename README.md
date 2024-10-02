@@ -2,12 +2,9 @@
   <div align="center">
   </div>
   <h1 align="center"> Welcome to my profile <img src="https://raw.githubusercontent.com/Rabenherz112/Rabenherz112/main/assets/waving.gif" alt="Waving Hand" width="28" height="28"></h1>
-  <br>
+  
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    />
+    
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
@@ -17,7 +14,7 @@
       src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
     />
   </picture>
-  <br>
+  
 
    <picture>
     <source
