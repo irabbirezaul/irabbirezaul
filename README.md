@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
+  <div align="center">
+  </div>
+  <h1 align="center"> Welcome to my profile <img src="https://raw.githubusercontent.com/Rabenherz112/Rabenherz112/main/assets/waving.gif" alt="Waving Hand" width="28" height="28"></h1>
+  <br>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+  <br>
 
-<!--
-**irabbirezaul/irabbirezaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+  <br>
+  <a href="https://t.me/koya_i"><img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel"></a>
+  <a href="mailto: abuhiderrony1@gmail.com"><img src="https://img.shields.io/badge/Mail-%232E87FB?style=for-the-badge&logo=gmail&logoColor=white&color=C71610"/></a>
+  <br>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Desamod&label=Profile%20Visits&style=for-the-badge" />
+  <br>
+  <br>
+</div>
